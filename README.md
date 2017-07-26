@@ -3,6 +3,8 @@
 > Author: [Lilian Besson (@Naereen)](https://github.com/Naereen/), inspired by [Benjamin Guedj](https://bguedj.github.io/).
 > Professional website about my research activities.
 
+![Small demo #1/7 of the https://naereen.github.io/me/ webpage](demo1.png)
+
 ## Theme:
 [Stellar by HTML5 UP (html5up.net | @ajlkn)](https://html5up.net/stellar).
 Free for personal and commercial use under the [CCA 3.0 license](https://creativecommons.org/licenses/by/3.0/) ([html5up.net/license](https://html5up.net/license)).
@@ -17,6 +19,15 @@ Others:
 - Scrollex/Scrolley (@ajlkn)
 - [Skel](http://skel.io)
 - html5shiv.js (@afarkas @jdalton @jon_neal @rem)
+
+## More screenshots
+
+![Small demo #2/7 of the https://naereen.github.io/me/ webpage](demo2.png)
+![Small demo #3/7 of the https://naereen.github.io/me/ webpage](demo3.png)
+![Small demo #4/7 of the https://naereen.github.io/me/ webpage](demo4.png)
+![Small demo #5/7 of the https://naereen.github.io/me/ webpage](demo5.png)
+![Small demo #6/7 of the https://naereen.github.io/me/ webpage](demo6.png)
+![Small demo #7/7 of the https://naereen.github.io/me/ webpage](demo7.png)
 
 ## :scroll: License ? [![GitHub license](https://img.shields.io/github/license/Naereen/me.svg)](https://github.com/Naereen/me/blob/master/LICENSE)
 [CCA 3.0 licensed](https://creativecommons.org/licenses/by/3.0/) (file [LICENSE.txt](LICENSE.txt)).
