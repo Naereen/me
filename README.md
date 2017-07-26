@@ -1,4 +1,4 @@
-# « me.git »
+# « me.git » → [https://naereen.github.io/me/](https://naereen.github.io/me/)
 
 > Author: [Lilian Besson (@Naereen)](https://github.com/Naereen/), inspired by [Benjamin Guedj](https://bguedj.github.io/).
 > Professional website about my research activities.
