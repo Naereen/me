@@ -1826,6 +1826,11 @@
 		text-align: right;
 	}
 
+	.force-right {
+		float: right;
+		clear: right;
+	}
+
 	input, select, textarea {
 		color: #ffffff;
 	}
