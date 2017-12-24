@@ -1648,6 +1648,18 @@
 		color: rgba(255, 255, 255, 0.85);
 	}
 
+	section > ul > li > p, section > p,
+	section > div > ul, section > div > p,
+	section > div > div > ul, section > div > div > p {
+		text-align: justify;
+		text-align-last: center;
+		text-justify: inter-word;
+	}
+
+	footer > section > p {
+		text-align-last: left;
+	}
+
 	body, input, select, textarea {
 		font-family: "Source Sans Pro", Helvetica, sans-serif;
 		font-size: 17pt;
