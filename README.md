@@ -31,7 +31,7 @@ Others:
 
 ## :scroll: License ? [![GitHub license](https://img.shields.io/github/license/Naereen/me.svg)](https://github.com/Naereen/me/blob/master/LICENSE)
 [CCA 3.0 licensed](https://creativecommons.org/licenses/by/3.0/) (file [LICENSE.txt](LICENSE.txt)).
-© [Lilian Besson](https://GitHub.com/Naereen), 2017.
+© [Lilian Besson](https://GitHub.com/Naereen), 2017-2018.
 
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/me/graphs/commit-activity)
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama)
