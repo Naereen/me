@@ -33,6 +33,8 @@ Others:
 [CCA 3.0 licensed](https://creativecommons.org/licenses/by/3.0/) (file [LICENSE.txt](LICENSE.txt)).
 © [Lilian Besson](https://GitHub.com/Naereen), 2017-2018.
 
+Thanks to [Benjamin Guedj](https://bguedj.github.io/) for discussions and inspiration for this webpage.
+
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/me/graphs/commit-activity)
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama)
 [![Analytics](https://ga-beacon.appspot.com/UA-38514290-17/github.com/Naereen/me/README.md?pixel)](https://GitHub.com/Naereen/me/)
