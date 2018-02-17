@@ -2,17 +2,17 @@
 			<li>
 				<strong>L. Besson</strong> &amp; <a target="_blank" href="http://chercheurs.lille.inria.fr/ekaufman/research.html">E. Kaufmann</a>.
                 <br>
-				<em>Multi-Player Bandits Models Revisited</em>.
+				<em>What Doubling-Trick Can and Can't Do for Multi-Armed Bandits</em>.
 				February 2018.
+				<!-- <br> -->
+				<!-- <a target="_blank" href="http://www.learningtheory.org/colt2018/">COLT</a>, Stockholm, Sweden, July 2018. -->
 				<br>
-				<a target="_blank" href="http://www.learningtheory.org/colt2018/">COLT</a>, Stockholm, Sweden, July 2018.
-				<br>
-				<!-- [ <a target="_blank" href="http://perso.crans.org/besson/articles/BK__COLT_2018.pdf"><i class="icon fa-file-pdf-o"></i> PDF (on my website)</a> ] -->
-				[ <a target="_blank" href="https://hal.inria.fr/hal-XXX/document"><i class="icon fa-file-pdf-o"></i> PDF</a> ]
+				[ <a target="_blank" href="http://perso.crans.org/besson/articles/BK__COLT_2018.pdf"><i class="icon fa-file-pdf-o"></i> PDF (on my website)</a> ]
+				<!-- [ <a target="_blank" href="https://hal.inria.fr/hal-XXX/document"><i class="icon fa-file-pdf-o"></i> PDF</a> ] -->
 				<!-- [ <a target="_blank" href="http://perso.crans.org/besson/publis/slides/2017_12__Presentation_Inria_Lille_SequeL_Seminar/slides_169.pdf"><i class="icon fa-file-powerpoint-o"></i> Slides</a> ] -->
 				<!-- &bull; [ <a target="_blank" href="https://arxiv.org/abs/1711.02317"><i class="icon fa-link"></i> arXiv</a> ] -->
 				<!-- &bull; [ <a target="_blank" href="https://hal.inria.fr/hal-XXX"><i class="icon fa-tag"></i> HAL</a> ] -->
 				<!-- &bull; [ <a target="_blank" href="https://hal.inria.fr/hal-XXX/bibtex"><i class="icon fa-file-text-o"></i> BibTeX</a> ] -->
-				&bull; [ <a target="_blank" href="http://banditslilian.gforge.inria.fr/docs/Policies.DoublingTrickWrapper.html#module-Policies.DoublingTrickWrapper"><i class="icon fa-code"></i> Code (documentation)</a> ]
+				&bull; [ <a target="_blank" href="http://banditslilian.gforge.inria.fr/DoublingTrick.html"><i class="icon fa-code"></i> Code (documentation)</a> ]
 				<!-- &bull; [ <a target="_blank" href="https://doi.org/XXX/XXX.XXX"><i class="icon fa-key"></i> DOI (not yet)</a> ] -->
 			</li>
