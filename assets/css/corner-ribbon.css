@@ -1,0 +1,120 @@
+@import url("//fonts.googleapis.com/css?family=Tangerine");
+
+/* The ribbons */
+.corner-ribbon {
+  font-family: "Tangerine", sans-serif;
+  width: 400px;
+  background: #e43;
+  position: absolute;
+  top: 50px;
+  left: -100px;
+  text-align: center;
+  line-height: 35px;
+  letter-spacing: 0em;
+  color: white;
+  z-index: 100000000;
+  transform: rotate(-45deg);
+  -webkit-transform: rotate(-45deg);
+  -moz-transform: rotate(-45deg);
+  -o-transform: rotate(-45deg);
+  -ms-transform: rotate(-45deg);
+}
+
+.corner-ribbon a {
+  text-decoration: none;
+  font-style: italic;
+  font-size: 175%;
+  color: white;
+  border-bottom: none;
+}
+
+/* Custom styles */
+
+.corner-ribbon.sticky {
+  position: fixed;
+}
+
+.corner-ribbon.shadow {
+  box-shadow: 0 0 3px rgba(0, 0, 0, 0.3);
+}
+
+/* Different positions */
+.corner-ribbon.top-left {
+  top: 50px;
+  left: -100px;
+  transform: rotate(-45deg);
+  -webkit-transform: rotate(-45deg);
+  -moz-transform: rotate(-45deg);
+  -o-transform: rotate(-45deg);
+  -ms-transform: rotate(-45deg);
+}
+
+.corner-ribbon.top-right {
+  top: 50px;
+  right: -100px;
+  left: auto;
+  transform: rotate(45deg);
+  -webkit-transform: rotate(45deg);
+  -moz-transform: rotate(45deg);
+  -o-transform: rotate(45deg);
+  -ms-transform: rotate(45deg);
+}
+
+.corner-ribbon.bottom-left {
+  top: auto;
+  bottom: 50px;
+  left: -100px;
+  transform: rotate(45deg);
+  -webkit-transform: rotate(45deg);
+  -moz-transform: rotate(45deg);
+  -o-transform: rotate(45deg);
+  -ms-transform: rotate(45deg);
+}
+
+.corner-ribbon.bottom-right {
+  top: auto;
+  right: -100px;
+  bottom: 50px;
+  left: auto;
+  transform: rotate(-45deg);
+  -webkit-transform: rotate(-45deg);
+  -moz-transform: rotate(-45deg);
+  -o-transform: rotate(-45deg);
+  -ms-transform: rotate(-45deg);
+}
+
+/* Colors */
+.corner-ribbon.white {
+  background: #f0f0f0;
+  color: #555;
+}
+.corner-ribbon.black {
+  background: #333;
+}
+.corner-ribbon.grey {
+  background: #999;
+}
+.corner-ribbon.blue {
+  background: #39d;
+}
+.corner-ribbon.green {
+  background: #2c7;
+}
+.corner-ribbon.turquoise {
+  background: #1b9;
+}
+.corner-ribbon.purple {
+  background: #95b;
+}
+.corner-ribbon.red {
+  background: #e43;
+}
+.corner-ribbon.orange {
+  background: #e82;
+}
+.corner-ribbon.yellow {
+  background: #ec0;
+}
+.corner-ribbon.gold {
+  background: #c4a451;
+}
