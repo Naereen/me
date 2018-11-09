@@ -53,10 +53,10 @@
 
 /* Footer */
 
-	#footer > * {
+	#contact > * {
 		float: left;
 	}
 
-	#footer .copyright {
+	#contact .copyright {
 		clear: both;
 	}

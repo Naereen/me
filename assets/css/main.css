@@ -3129,29 +3129,29 @@ body, p, a, em, i, ul, ol, li, textarea, h1, h2, h3, h4, h5, h6 {
 
 /* Header */
 
-	#header {
+	#top {
 		padding: 5em 5em 1em 5em ;
 		text-align: center;
 	}
 
-		#header h1 {
+		#top h1 {
 			margin: 0 0 0.25em 0;
 		}
 
-		#header p {
+		#top p {
 			font-size: 1.25em;
 			letter-spacing: -0.025em;
 		}
 
-		#header.alt {
+		#top.alt {
 			padding: 7em 5em 4em 5em ;
 		}
 
-			#header.alt h1 {
+			#top.alt h1 {
 				font-size: 3.25em;
 			}
 
-			#header.alt > * {
+			#top.alt > * {
 				-moz-transition: opacity 3s ease;
 				-webkit-transition: opacity 3s ease;
 				-ms-transition: opacity 3s ease;
@@ -3163,7 +3163,7 @@ body, p, a, em, i, ul, ol, li, textarea, h1, h2, h3, h4, h5, h6 {
 				opacity: 1;
 			}
 
-			#header.alt .logo {
+			#top.alt .logo {
 				-moz-transition: opacity 1.25s ease, -moz-transform 0.5s ease;
 				-webkit-transition: opacity 1.25s ease, -webkit-transform 0.5s ease;
 				-ms-transition: opacity 1.25s ease, -ms-transform 0.5s ease;
@@ -3176,7 +3176,7 @@ body, p, a, em, i, ul, ol, li, textarea, h1, h2, h3, h4, h5, h6 {
 				margin: 0 0 1.5em 0;
 			}
 
-				#header.alt .logo img {
+				#top.alt .logo img {
 					display: block;
 					margin: 0 auto;
 					max-width: 75%;
@@ -3184,11 +3184,11 @@ body, p, a, em, i, ul, ol, li, textarea, h1, h2, h3, h4, h5, h6 {
 
 		@media screen and (max-width: 1280px) {
 
-			#header {
+			#top {
 				padding: 4em 4em 0.1em 4em ;
 			}
 
-				#header.alt {
+				#top.alt {
 					padding: 6em 4em 3em 4em ;
 				}
 
@@ -3196,11 +3196,11 @@ body, p, a, em, i, ul, ol, li, textarea, h1, h2, h3, h4, h5, h6 {
 
 		@media screen and (max-width: 980px) {
 
-			#header {
+			#top {
 				padding: 4em 3em 0.1em 3em ;
 			}
 
-				#header.alt {
+				#top.alt {
 					padding: 5em 3em 2em 3em ;
 				}
 
@@ -3208,24 +3208,24 @@ body, p, a, em, i, ul, ol, li, textarea, h1, h2, h3, h4, h5, h6 {
 
 		@media screen and (max-width: 736px) {
 
-			#header {
+			#top {
 				padding: 3em 2em 0.1em 2em ;
 			}
 
-				#header p {
+				#top p {
 					font-size: 1em;
 					letter-spacing: 0;
 				}
 
-					#header p br {
+					#top p br {
 						display: none;
 					}
 
-				#header.alt {
+				#top.alt {
 					padding: 4em 2em 1em 2em ;
 				}
 
-					#header.alt h1 {
+					#top.alt h1 {
 						font-size: 2.5em;
 					}
 
@@ -3233,11 +3233,11 @@ body, p, a, em, i, ul, ol, li, textarea, h1, h2, h3, h4, h5, h6 {
 
 		@media screen and (max-width: 480px) {
 
-			#header {
+			#top {
 				padding: 3em 1.5em 0.1em 1.5em ;
 			}
 
-				#header.alt {
+				#top.alt {
 					padding: 4em 1.5em 1em 1.5em ;
 				}
 
@@ -3245,21 +3245,21 @@ body, p, a, em, i, ul, ol, li, textarea, h1, h2, h3, h4, h5, h6 {
 
 		@media screen and (max-width: 360px) {
 
-			#header {
+			#top {
 				padding: 2.5em 1em 0.1em 1em ;
 			}
 
-				#header.alt {
+				#top.alt {
 					padding: 3.5em 1em 0.5em 1em ;
 				}
 
 		}
 
-		body.is-loading #header.alt > * {
+		body.is-loading #top.alt > * {
 			opacity: 0;
 		}
 
-		body.is-loading #header.alt .logo {
+		body.is-loading #top.alt .logo {
 			-moz-transform: scale(0.8) rotate(-30deg);
 			-webkit-transform: scale(0.8) rotate(-30deg);
 			-ms-transform: scale(0.8) rotate(-30deg);
@@ -3734,7 +3734,7 @@ body, p, a, em, i, ul, ol, li, textarea, h1, h2, h3, h4, h5, h6 {
 
 /* Footer */
 
-	#footer {
+	#contact {
 		display: -moz-flex;
 		display: -webkit-flex;
 		display: -ms-flex;
@@ -3748,12 +3748,12 @@ body, p, a, em, i, ul, ol, li, textarea, h1, h2, h3, h4, h5, h6 {
 		margin: 0 0 3em -2em;
 	}
 
-		#footer > * {
+		#contact > * {
 			width: calc(50% - 2em);
 			margin-left: 2em;
 		}
 
-		#footer .copyright {
+		#contact .copyright {
 			width: 100%;
 			margin: 2.5em 0 2em 0;
 			font-size: 0.8em;
@@ -3762,7 +3762,7 @@ body, p, a, em, i, ul, ol, li, textarea, h1, h2, h3, h4, h5, h6 {
 
 		@media screen and (max-width: 1280px) {
 
-			#footer {
+			#contact {
 				padding: 4em 4em 2em 4em ;
 			}
 
@@ -3770,20 +3770,20 @@ body, p, a, em, i, ul, ol, li, textarea, h1, h2, h3, h4, h5, h6 {
 
 		@media screen and (max-width: 980px) {
 
-			#footer {
+			#contact {
 				padding: 4em 3em 2em 3em ;
 				display: block;
 				margin: 0 0 3em 0;
 				width: 100%;
 			}
 
-				#footer > * {
+				#contact > * {
 					width: 100%;
 					margin-left: 0;
 					margin-bottom: 3em;
 				}
 
-				#footer .copyright {
+				#contact .copyright {
 					text-align: left;
 				}
 
@@ -3791,7 +3791,7 @@ body, p, a, em, i, ul, ol, li, textarea, h1, h2, h3, h4, h5, h6 {
 
 		@media screen and (max-width: 736px) {
 
-			#footer {
+			#contact {
 				padding: 3em 2em 1em 2em ;
 			}
 
@@ -3799,7 +3799,7 @@ body, p, a, em, i, ul, ol, li, textarea, h1, h2, h3, h4, h5, h6 {
 
 		@media screen and (max-width: 480px) {
 
-			#footer {
+			#contact {
 				padding: 3em 1.5em 1em 1.5em ;
 			}
 
@@ -3807,7 +3807,7 @@ body, p, a, em, i, ul, ol, li, textarea, h1, h2, h3, h4, h5, h6 {
 
 		@media screen and (max-width: 480px) {
 
-			#footer {
+			#contact {
 				padding: 2.5em 1em 0.5em 1em ;
 			}
 
