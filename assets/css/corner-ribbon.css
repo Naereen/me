@@ -2,12 +2,12 @@
 
 /* The ribbons */
 .corner-ribbon {
-  font-family: "Tangerine", sans-serif;
-  width: 400px;
+  /* font-family: "Tangerine", sans-serif; */
+  width: 55vw;
   background: #e43;
   position: absolute;
-  top: 50px;
-  left: -100px;
+  top: 25vh;
+  left: -250px;
   text-align: center;
   line-height: 35px;
   letter-spacing: 0em;
@@ -21,9 +21,9 @@
 }
 
 .corner-ribbon a {
-  text-decoration: none;
+  /* text-decoration: none; */
   font-style: italic;
-  font-size: 155%;
+  /* font-size: 155%; */
   color: white;
   border-bottom: none;
 }
@@ -40,8 +40,8 @@
 
 /* Different positions */
 .corner-ribbon.top-left {
-  top: 50px;
-  left: -100px;
+  top: 25vh;
+  left: -250px;
   transform: rotate(-45deg);
   -webkit-transform: rotate(-45deg);
   -moz-transform: rotate(-45deg);
@@ -50,8 +50,8 @@
 }
 
 .corner-ribbon.top-right {
-  top: 50px;
-  right: -100px;
+  top: 25vh;
+  right: -250px;
   left: auto;
   transform: rotate(45deg);
   -webkit-transform: rotate(45deg);
@@ -62,8 +62,8 @@
 
 .corner-ribbon.bottom-left {
   top: auto;
-  bottom: 50px;
-  left: -100px;
+  bottom: 25vh;
+  left: -250px;
   transform: rotate(45deg);
   -webkit-transform: rotate(45deg);
   -moz-transform: rotate(45deg);
@@ -73,8 +73,8 @@
 
 .corner-ribbon.bottom-right {
   top: auto;
-  right: -100px;
-  bottom: 50px;
+  right: -250px;
+  bottom: 25vh;
   left: auto;
   transform: rotate(-45deg);
   -webkit-transform: rotate(-45deg);
