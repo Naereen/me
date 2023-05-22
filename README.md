@@ -36,7 +36,7 @@ Others:
 > If you also got inspired, please [send a pull request](https://github.com/Naereen/me/pulls) to add your page to this list!
 
 - [Sélim Cornet](https://perso.crans.org/scornet/). He preferred to use a separate page for each part rather than tabs and soft navigation, it also looks very nice! I like this page!
-- [Damien Allonsius](https://github.com/DamienAllonsius/me) (not hosted online apparently, but here it is [on a HTML preview web service](https://htmlpreview.github.io/?https://github.com/DamienAllonsius/me/blob/master/index.html)).
+- [Damien Allonsius](https://damienallonsius.github.io/).
 
 ---
 
