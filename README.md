@@ -40,18 +40,15 @@ Others:
 
 ---
 
-## :scroll: License ? [![GitHub license](https://img.shields.io/github/license/Naereen/me.svg)](https://github.com/Naereen/me/blob/master/LICENSE)
+## :scroll: License ?
 [CCA 3.0 licensed](https://creativecommons.org/licenses/by/3.0/) (file [LICENSE](LICENSE)).
-© [Lilian Besson](https://GitHub.com/Naereen), 2017-2018.
+© [Lilian Besson](https://GitHub.com/Naereen), 2017-2023.
 
 Thanks to [Benjamin Guedj](https://bguedj.github.io/) for discussions and inspiration for this webpage.
 
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/me/graphs/commit-activity)
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama)
-[![Analytics](https://ga-beacon.appspot.com/UA-38514290-17/github.com/Naereen/me/README.md?pixel)](https://GitHub.com/Naereen/me/)
-
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Naereen/)
-
 [![ForTheBadge uses-badges](http://ForTheBadge.com/images/badges/uses-badges.svg)](http://ForTheBadge.com)
 [![ForTheBadge uses-git](http://ForTheBadge.com/images/badges/uses-git.svg)](https://GitHub.com/)
 [![ForTheBadge uses-css](http://ForTheBadge.com/images/badges/uses-css.svg)](http://ForTheBadge.com)
